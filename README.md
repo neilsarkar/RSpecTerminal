@@ -6,9 +6,9 @@ Rather than attempting to recreate the quirks of your rspec environment (rvm, co
 
 ## Usage:
 
-Cmd+R          = Run current file
-Cmd+Shift+R    = Run current line
-Cmd+Alt+Ctrl+R = Run last run test (from any file!)
+    Cmd+R          = Run current file
+    Cmd+Shift+R    = Run current line
+    Cmd+Alt+Ctrl+R = Run last run test (from any file!)
 
 ## Patches Welcome
 
