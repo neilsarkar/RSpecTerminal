@@ -1,0 +1,17 @@
+[
+  {
+    "keys": ["super+r"],
+    "command": "run_tests",
+    "args": {"scope": "file"}
+  },
+  {
+    "keys": ["super+shift+r"],
+    "command": "run_tests",
+    "args": {"scope": "line"}
+  },
+  {
+    "keys": ["super+alt+ctrl+r"],
+    "command": "run_tests",
+    "args": {"scope": "last"}
+  }
+]

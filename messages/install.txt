@@ -1,0 +1,3 @@
+Thanks for installing!
+
+Please send any bug reports to @neilsarkar on github or twitter.
